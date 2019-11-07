@@ -30,12 +30,10 @@ In 2013, [**Matt D. Smith**](http://twitter.com/mds) unveiled the **[Float Label
 
 ### CococaPods
 ``` ruby
-pod 'UIFloatLabelTextField'
+pod 'JMUIFloatLabelTextField'
 ```
 
-### Carthage
-``` swift
-github "ArtSabintsev/UIFloatLabelTextField"
+
 ```
 
 ## Setup
