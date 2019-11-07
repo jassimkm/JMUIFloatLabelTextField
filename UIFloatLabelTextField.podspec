@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "JMUIFloatLabelTextField"
-  s.version             = "1.3"
+  s.version             = "1.4"
   s.summary             = "A subclassed UITextField that implements the Float Label UI design pattern."
   s.homepage            = "https://github.com/jassimkm/JMUIFloatLabelTextField.git"
   s.platform            = :ios, '8.0'
