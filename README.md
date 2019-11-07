@@ -1,4 +1,4 @@
-# UIFloatLabelTextField
+# JMUIFloatLabelTextField
 
 ### A subclassed UITextField that implements the Float Label UI design pattern.
 
